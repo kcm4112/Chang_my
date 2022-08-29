@@ -16,8 +16,8 @@
 <br></br>
 <h3 align="center"><b>🖥 Me 🖥</b></h3>
 <p align="center">
-<a href="https://chmin.tistory.com/" target = "_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Bloglovin&logoColor=white"/></a> &nbsp
-<a href="https://www.instagram.com/ch_min__/" target = "_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> &nbsp
+<a href="https://chmin.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=Bloglovin&logoColor=white"/></a> &nbsp
+<a href="https://www.instagram.com/ch_min__/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> &nbsp
   
   
 
