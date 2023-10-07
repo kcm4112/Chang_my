@@ -1,4 +1,4 @@
-<h3 align="center"><b>😀 안녕하세요 프론트엔드 개발자를 꿈꾸는 KCM입니다. 😀</b></h3>
+
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcm4112)](https://solved.ac/kcm4112)
